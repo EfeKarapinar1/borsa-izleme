@@ -8,3 +8,4 @@
 - react-use-websocket
 
 # Site tasarımı
+<img src="https://github.com/EfeKarapinar1/borsa-izleme/blob/master/ui.png">
